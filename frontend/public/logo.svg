@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 44" width="180" height="44">
+  <rect x="2" y="2" width="40" height="40" rx="10" fill="#15181e" stroke="rgba(245, 158, 11, 0.3)" stroke-width="1.5"/>
+  <path d="M18.5 25.5L25.5 18.5M14 30l-2-2a6 6 0 018.49-8.49l2 2M21 23l2-2a6 6 0 018.49 8.49l-2 2" 
+        stroke="#f59e0b" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  
+  <text x="52" y="28" font-family="'Outfit', -apple-system, sans-serif" font-weight="700" font-size="21" fill="currentColor" letter-spacing="-0.5">
+    Shortly<tspan fill="#f59e0b">.</tspan>
+  </text>
+</svg>
